@@ -8,8 +8,8 @@ I work at the intersection of **quantitative finance**, **statistics**, and **en
 
 ### 🔗 Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](YOUR_WEBSITE_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-kleymenov-05543a251/?skipRedirect=true)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://app.notion.com/p/piotrkleyweb/Piotr-Kleymenov-390c1a9f59c48099a59bce5f6cbe0f77)
 
 ---
 
