@@ -26,11 +26,21 @@ I build frameworks that find **recoverable structure beneath noisy data**: stabl
 <!-- ===== TOOLBOX ===== -->
 ### 🧮 Toolbox
 
+**Languages & Data**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+**Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
 
 ---
 
@@ -51,22 +61,10 @@ I build frameworks that find **recoverable structure beneath noisy data**: stabl
 
 <div align="center">
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-kleymenov-05543a251/?skipRedirect=true)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://app.notion.com/p/piotrkleyweb/Piotr-Kleymenov-390c1a9f59c48099a59bce5f6cbe0f77)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-kleymenov-05543a251/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/piotrkleyweb/Piotr-Kleymenov-390c1a9f59c48099a59bce5f6cbe0f77)
 
 </div>
 
 <!-- ===== FOOTER WAVE ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer" />
-
-
-
-### 🛠️ Toolbox
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
