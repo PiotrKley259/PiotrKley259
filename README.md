@@ -1,4 +1,4 @@
-## Hi, I'm Piotr 👋
+## Hi, I'm Piotr!
 
 Financial Engineering @ EPFL · Statistics & Analytics @ SHL Medical
 
