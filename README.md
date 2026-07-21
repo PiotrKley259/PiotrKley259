@@ -47,7 +47,7 @@ I'm a Financial Engineering Master's student at EPFL with roots in Mechanical En
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-kleymenov-05543a251/)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/piotrkleyweb/Piotr-Kleymenov-390c1a9f59c48099a59bce5f6cbe0f77)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=notion&logoColor=white)](https://piotrkleyweb.notion.site/Piotr-Kleymenov-390c1a9f59c48099a59bce5f6cbe0f77?pvs=74)
 
 </div>
 
