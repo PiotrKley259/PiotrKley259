@@ -41,17 +41,6 @@ I'm a Financial Engineering Master's student at EPFL with roots in Mechanical En
 
 ---
 
-
-<!-- ===== FEATURED REPOS ===== -->
-### Featured
-
-<div align="center">
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=PiotrKley259&repo=REPO_NAME_1&hide_border=true&title_color=26d0ce&icon_color=26d0ce&text_color=c9d1d9&bg_color=0d1117)](https://github.com/PiotrKley259/REPO_NAME_1)
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=PiotrKley259&repo=REPO_NAME_2&hide_border=true&title_color=26d0ce&icon_color=26d0ce&text_color=c9d1d9&bg_color=0d1117)](https://github.com/PiotrKley259/REPO_NAME_2)
-
-</div>
-
 <!-- ===== CONNECT ===== -->
 ### Connect
 
