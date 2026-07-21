@@ -11,11 +11,10 @@
 ---
 
 <!-- ===== ABOUT ===== -->
-### `> whoami`
 
 **Financial Engineering** @ EPFL.
 
-I build frameworks that find **recoverable structure beneath noisy data**: stable distributions, regime patterns, and the signal that survives the noise. Currently designing statistical safety frameworks for drug-delivery devices at **SHL Medical**.
+I build frameworks that find **recoverable structure beneath noisy data**: stable distributions, regime patterns, and the signal that survives the noise. Working towards to build something cool.
 
 ---
 
