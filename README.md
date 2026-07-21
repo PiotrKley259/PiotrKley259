@@ -11,15 +11,11 @@
 ---
 
 <!-- ===== ABOUT ===== -->
-<img align="right" width="42%" src="https://quickchart.io/chart?bkg=transparent&c=%7Btype%3A%27line%27%2Cdata%3A%7Blabels%3A%5B%27%27%2C%27%27%2C%27%27%2C%27%27%2C%27%27%2C%27%27%2C%27%27%2C%27%27%2C%27%27%2C%27%27%2C%27%27%2C%27%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B5%2C22%2C48%2C80%2C95%2C80%2C48%2C22%2C5%2C22%2C48%2C60%5D%2CborderColor%3A%27%2326d0ce%27%2Cfill%3Atrue%2CbackgroundColor%3A%27rgba(38%2C208%2C206%2C0.15)%27%2Ctension%3A0.45%2CpointRadius%3A0%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%7D%2Cscales%3A%7Bx%3A%7Bdisplay%3Afalse%7D%2Cy%3A%7Bdisplay%3Afalse%7D%7D%7D%7D" />
-
 ### `> whoami`
 
 **Financial Engineering** @ EPFL.
 
 I build frameworks that find **recoverable structure beneath noisy data**: stable distributions, regime patterns, and the signal that survives the noise. Currently designing statistical safety frameworks for drug-delivery devices at **SHL Medical**.
-
-<br clear="right"/>
 
 ---
 
@@ -48,7 +44,7 @@ I build frameworks that find **recoverable structure beneath noisy data**: stabl
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=PiotrKley259&show_icons=true&hide_border=true&title_color=26d0ce&icon_color=26d0ce&text_color=c9d1d9&bg_color=0d1117)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=PiotrKley259&hide_border=true&background=0d1117&ring=26d0ce&fire=26d0ce&currStreakLabel=26d0ce)
+![Streak](https://streak-stats.demolab.com/?user=PiotrKley259&hide_border=true&background=0d1117&ring=26d0ce&fire=26d0ce&currStreakLabel=26d0ce)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrKley259&layout=compact&hide_border=true&title_color=26d0ce&text_color=c9d1d9&bg_color=0d1117)
 
