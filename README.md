@@ -4,7 +4,7 @@
 <!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=26D0CE&center=true&vCenter=true&width=600&lines= Statistical Modeling;Monte+Carlo+%7C+Backtesting%7C+Forecasting;Python+%2B+a+lot+of+distributions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=26D0CE&center=true&vCenter=true&width=600&lines=Statistical+Modeling;Monte+Carlo+%7C+Backtesting+%7C+Forecasting;Python+%2B+a+lot+of+distributions)](https://git.io/typing-svg)
 
 </div>
 
