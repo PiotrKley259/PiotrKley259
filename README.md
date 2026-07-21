@@ -46,8 +46,6 @@ I build frameworks that find **recoverable structure beneath noisy data**: stabl
 ![Stats](https://github-readme-stats.vercel.app/api?username=PiotrKley259&show_icons=true&hide_border=true&title_color=26d0ce&icon_color=26d0ce&text_color=c9d1d9&bg_color=0d1117)
 ![Streak](https://streak-stats.demolab.com/?user=PiotrKley259&hide_border=true&background=0d1117&ring=26d0ce&fire=26d0ce&currStreakLabel=26d0ce)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrKley259&layout=compact&hide_border=true&title_color=26d0ce&text_color=c9d1d9&bg_color=0d1117)
-
 </div>
 
 ---
