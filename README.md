@@ -11,15 +11,17 @@
 ---
 
 <!-- ===== ABOUT ===== -->
-
+### Me
 **Financial Engineering** @ EPFL.
 
-I build frameworks that find **recoverable structure beneath noisy data**: stable distributions, regime patterns, and the signal that survives the noise. Working towards to build something cool.
+Time to share what I love to do the most. Solving problems !
+
+I'm a Financial Engineering Master's student at EPFL with roots in Mechanical Engineering. I'm building statistical frameworks for drug delivery device safety at SHL Medical, working with  data and real-world dispensing volumes to turn messy signals into defensible conclusions.
 
 ---
 
 <!-- ===== TOOLBOX ===== -->
-### 🧮 Toolbox
+### Toolbox
 
 **Languages & Data**
 
@@ -42,7 +44,7 @@ I build frameworks that find **recoverable structure beneath noisy data**: stabl
 
 
 <!-- ===== CONNECT ===== -->
-### 🔗 Connect
+### Connect
 
 <div align="center">
 
